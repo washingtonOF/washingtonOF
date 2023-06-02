@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 
 Student FullStack Developer in Development
-👨‍💻 I'm a Full Stack development student at Digital College in Fortaleza | Ceará | Brazil 🤩 I love technology, music, trips, comedy, my family and friends 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community
+👨‍💻 I'm a Full Stack development student at Digital College in Fortaleza | Ceará | Brazil 🤩 I love technology, music, trips, comedy, my family and friends 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community <br><br><br><br>
 
-🌍  I'm based in Fortaleza | Ceará | Brazil
-✉️  You can contact me at washington.s.souza@gmail.com
-🧠  I'm learning tech skills for Fullstack, from Backend to Frontend.
-🤝  I'm open to collaborating on Projects for beginners
+🌍  I'm based in Fortaleza | Ceará | Brazil <br>
+✉️  You can contact me at washington.s.souza@gmail.com <br>
+🧠  I'm learning tech skills for Fullstack, from Backend to Frontend. <br>
+🤝  I'm open to collaborating on Projects for beginners <br> 
 
-
+<br><br><br><br>
 Learning Skills
 Bootstrap Bootstrap HTML5 CSS3 JavaScript Express NodeJS React Bootstrap Express Bootstrap PHP Python
 

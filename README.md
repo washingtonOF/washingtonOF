@@ -1,3 +1,5 @@
+Hello World<br><br>
+
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Washington Santos!
 <br><br><br>
 <!--
@@ -17,8 +19,18 @@ Here are some ideas to get you started:
 
 
 
-Student FullStack Developer in Development
+FullStack Developer in Development
 👨‍💻 I'm a Full Stack development student at Digital College in Fortaleza | Ceará | Brazil 🤩 I love technology, music, trips, comedy, my family and friends 🤔 I have a lot of ideas in my mind and I'm interested in collaborating with the developer community <br><br><br><br>
+
+
+I strongly believe that technology is the future of humanity. Without it we could not evolve to the point we are today, I also believe that we can always evolve a little every day. Find solutions and propose improvements so that organizations' processes are always up-to-date and agile.
+
+
+<br><br><br><br>
+
+Always learning and evolving
+
+<br><br><br><br>
 
 🌍  I'm based in Fortaleza | Ceará | Brazil <br>
 ✉️  You can contact me at washington.s.souza@gmail.com <br>
@@ -28,5 +40,7 @@ Student FullStack Developer in Development
 <br><br><br><br>
 Learning Skills
 Bootstrap Bootstrap HTML5 CSS3 JavaScript Express NodeJS React Bootstrap Express Bootstrap PHP Python
+
+
 
                  
